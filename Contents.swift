@@ -54,7 +54,7 @@ let pie : String // Can't do this
 let interestRate : Float = 4.5
 interestRate
 
-w
+
 // Note on Mutability
 // In Objective C, it is common to have 2 versions of a class; NSMutableArray and NSArray
 // In Swift its much simpler; If created with var, its variable/mutable.
